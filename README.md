@@ -103,3 +103,6 @@ survivorstore/
 
 ## Licença
 Este projeto é de uso livre e pode ser modificado conforme necessário.
+
+## Autoria
+Trabalho feito por Gustavo Fernandes Galeno Brito e Pablo Gabriel de Souza Silva.
